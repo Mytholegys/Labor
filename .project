@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>STM32F4_RODOS_Template</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>myMath.cpp</name>
+			<type>1</type>
+			<location>/home/mytholegys/Studium/Labor/Eclipse Luna SR1/C::/Users/Gageik/Desktop/Eclipse Luna SR1/Eclipse Luna SR1/Workspace/STM32F4_RODOS_Template/myMath.cpp</location>
+		</link>
+		<link>
+			<name>myMath.h</name>
+			<type>1</type>
+			<location>/home/mytholegys/Studium/Labor/Eclipse Luna SR1/C::/Users/Gageik/Desktop/Eclipse Luna SR1/Eclipse Luna SR1/Workspace/STM32F4_RODOS_Template/myMath.h</location>
+		</link>
+		<link>
+			<name>trusted.h</name>
+			<type>1</type>
+			<location>/home/mytholegys/Studium/Labor/Eclipse Luna SR1/C::/Users/Gageik/Desktop/Eclipse Luna SR1/Eclipse Luna SR1/Workspace/STM32F4_RODOS_Template/trusted.h</location>
+		</link>
+	</linkedResources>
+</projectDescription>
